@@ -1,4 +1,5 @@
 # college
- this is my first repositry
+
+this is my first repositry
 <br>
-author salman khan
+author salman khan sk
