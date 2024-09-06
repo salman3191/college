@@ -1,1 +1,2 @@
 # college
+author salman khan
