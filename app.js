@@ -1,10 +1,6 @@
-let size = "L";
-if (size === "XL") {
-  console.log("price is 250");
-} else if (size === "L") {
-  console.log("price is 200");
-} else if (size === "M") {
-  console.log("price is 100");
-} else if (size === "M") {
-  console.log("price is 50");
+let strng = "A big dream";
+if (strng[0] === "a" && strng.length > 3) {
+  console.log("good string");
+} else {
+  console.log("bad string");
 }
